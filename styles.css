@@ -1,0 +1,10 @@
+/* Existing styles remain */
+
+.hidden {
+  display: none;
+}
+
+#auth-message {
+  color: red;
+  margin-top: 10px;
+}
